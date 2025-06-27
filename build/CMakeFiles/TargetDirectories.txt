@@ -1,0 +1,13 @@
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/edit_cache.dir
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/rebuild_cache.dir
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/list_install_components.dir
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/install.dir
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/install/local.dir
+/home/yyy/Desktop/cpp-test/build/CMakeFiles/install/strip.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/demo.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/edit_cache.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/rebuild_cache.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/list_install_components.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/install.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/install/local.dir
+/home/yyy/Desktop/cpp-test/build/example/CMakeFiles/install/strip.dir
